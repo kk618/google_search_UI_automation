@@ -1,5 +1,5 @@
 # google_search_UI_automation
-* Automated Testing Exercise
+## Automated Testing Exercise
 As a Google User, I would like to perform a ‘Search by Image’ and visit the result specified on a configuration file 
 (i.e. VISIT_RESULT=“3” to visit the third result).
 Use Selenium Webdriver or any alternative framework to complete this exercise.
