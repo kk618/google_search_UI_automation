@@ -1,0 +1,6 @@
+Page_Name,Element,Method,Value
+Search,cam_button,xpath,//div[@aria-label='Search by image' and @role='button']
+Search,upload_image_tab,xpath,//div[@id='dRSWfb']//a
+Search,choose_file_button,id,awyMjb
+Search_result,results_links,xpath,//div[@id='rso']/div//a
+Search_result,possible_related_search,xpath,//div[@id='topstuff']//div[2]/a

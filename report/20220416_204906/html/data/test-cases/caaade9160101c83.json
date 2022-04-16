@@ -1,0 +1,406 @@
+{
+  "uid" : "caaade9160101c83",
+  "name" : "test_google_search[image2]",
+  "fullName" : "tests.test_google_search#test_google_search",
+  "historyId" : "48190108e65d6b30d1e50debf4d42eb3",
+  "time" : {
+    "start" : 1650113401625,
+    "stop" : 1650113556193,
+    "duration" : 154568
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "locator",
+    "time" : {
+      "start" : 1650113395122,
+      "stop" : 1650113401623,
+      "duration" : 6501
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_visit_result",
+    "time" : {
+      "start" : 1650113401624,
+      "stop" : 1650113401624,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "check",
+    "time" : {
+      "start" : 1650113401624,
+      "stop" : 1650113401624,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113401734,
+        "stop" : 1650113402323,
+        "duration" : 589
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c2cf3ab57240a75a",
+        "name" : "image2",
+        "source" : "c2cf3ab57240a75a.html",
+        "type" : "text/html",
+        "size" : 170959
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image2'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113402390,
+        "stop" : 1650113402968,
+        "duration" : 578
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "631fe8694fe01f5a",
+        "name" : "image2",
+        "source" : "631fe8694fe01f5a.html",
+        "type" : "text/html",
+        "size" : 193343
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image2'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113403007,
+        "stop" : 1650113403575,
+        "duration" : 568
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "88aaf8cea893add4",
+        "name" : "image2",
+        "source" : "88aaf8cea893add4.html",
+        "type" : "text/html",
+        "size" : 198335
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image2'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113409056,
+        "stop" : 1650113409607,
+        "duration" : 551
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a765574d75433183",
+        "name" : "image2",
+        "source" : "a765574d75433183.html",
+        "type" : "text/html",
+        "size" : 439051
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image2'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "not_null",
+      "time" : {
+        "start" : 1650113409628,
+        "stop" : 1650113409628,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "a",
+        "value" : "'cats japanese'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "list_not_empty",
+      "time" : {
+        "start" : 1650113409628,
+        "stop" : 1650113410644,
+        "duration" : 1016
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "not_null",
+        "time" : {
+          "start" : 1650113409628,
+          "stop" : 1650113409628,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "a",
+          "value" : "'cats'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "take_screenshot",
+        "time" : {
+          "start" : 1650113409628,
+          "stop" : 1650113410150,
+          "duration" : 522
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "e94995de33701b44",
+          "name" : "Screenshot",
+          "source" : "e94995de33701b44.html",
+          "type" : "text/html",
+          "size" : 439051
+        } ],
+        "parameters" : [ {
+          "name" : "test",
+          "value" : "'Screenshot'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "not_null",
+        "time" : {
+          "start" : 1650113410150,
+          "stop" : 1650113410150,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "a",
+          "value" : "'japanese'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "take_screenshot",
+        "time" : {
+          "start" : 1650113410150,
+          "stop" : 1650113410644,
+          "duration" : 494
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "3bf83f64b85ee5c9",
+          "name" : "Screenshot",
+          "source" : "3bf83f64b85ee5c9.html",
+          "type" : "text/html",
+          "size" : 439051
+        } ],
+        "parameters" : [ {
+          "name" : "test",
+          "value" : "'Screenshot'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "a",
+        "value" : "['cats', 'japanese']"
+      } ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "title_contains_words",
+      "time" : {
+        "start" : 1650113554834,
+        "stop" : 1650113556193,
+        "duration" : 1359
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "take_screenshot",
+        "time" : {
+          "start" : 1650113554834,
+          "stop" : 1650113556193,
+          "duration" : 1359
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "615ff9ea7f4285e9",
+          "name" : "Screenshot",
+          "source" : "615ff9ea7f4285e9.html",
+          "type" : "text/html",
+          "size" : 3152571
+        } ],
+        "parameters" : [ {
+          "name" : "test",
+          "value" : "'Screenshot'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "title",
+        "value" : "'Japan's Love-Hate Relationship With Cats | Arts & Culture| Smithsonian Magazine'"
+      }, {
+        "name" : "l",
+        "value" : "['cats', 'japanese']"
+      } ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "result",
+      "time" : {
+        "start" : 1650113556193,
+        "stop" : 1650113556193,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "locator::close_browser",
+    "time" : {
+      "start" : 1650113556195,
+      "stop" : 1650113556475,
+      "duration" : 280
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_google_search"
+  }, {
+    "name" : "host",
+    "value" : "LT-E9129BMBP"
+  }, {
+    "name" : "thread",
+    "value" : "66239-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_google_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "image_name",
+    "value" : "'image2'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caaade9160101c83.json",
+  "parameterValues" : [ "'image2'" ]
+}

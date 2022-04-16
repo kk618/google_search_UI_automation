@@ -1,0 +1,406 @@
+{
+  "uid" : "f4e888ceada028fe",
+  "name" : "test_google_search[image3]",
+  "fullName" : "tests.test_google_search#test_google_search",
+  "historyId" : "08e49cb25456276ee37c0bcbf89480ff",
+  "time" : {
+    "start" : 1650113563218,
+    "stop" : 1650113756100,
+    "duration" : 192882
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "locator",
+    "time" : {
+      "start" : 1650113556479,
+      "stop" : 1650113563217,
+      "duration" : 6738
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "check",
+    "time" : {
+      "start" : 1650113563217,
+      "stop" : 1650113563218,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_visit_result",
+    "time" : {
+      "start" : 1650113563217,
+      "stop" : 1650113563217,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113563329,
+        "stop" : 1650113563881,
+        "duration" : 552
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ee344a54b209c658",
+        "name" : "image3",
+        "source" : "ee344a54b209c658.html",
+        "type" : "text/html",
+        "size" : 170311
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image3'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113563925,
+        "stop" : 1650113564579,
+        "duration" : 654
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "af1636ee1f1906ea",
+        "name" : "image3",
+        "source" : "af1636ee1f1906ea.html",
+        "type" : "text/html",
+        "size" : 194523
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image3'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113564618,
+        "stop" : 1650113565130,
+        "duration" : 512
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f41609a0226874a8",
+        "name" : "image3",
+        "source" : "f41609a0226874a8.html",
+        "type" : "text/html",
+        "size" : 198335
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image3'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "take_screenshot",
+      "time" : {
+        "start" : 1650113572245,
+        "stop" : 1650113572834,
+        "duration" : 589
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a4a73b5a64e40dfc",
+        "name" : "image3",
+        "source" : "a4a73b5a64e40dfc.html",
+        "type" : "text/html",
+        "size" : 547791
+      } ],
+      "parameters" : [ {
+        "name" : "test",
+        "value" : "'image3'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "not_null",
+      "time" : {
+        "start" : 1650113572855,
+        "stop" : 1650113572855,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "a",
+        "value" : "'marine architecture'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "list_not_empty",
+      "time" : {
+        "start" : 1650113572856,
+        "stop" : 1650113573947,
+        "duration" : 1091
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "not_null",
+        "time" : {
+          "start" : 1650113572856,
+          "stop" : 1650113572856,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "a",
+          "value" : "'marine'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "take_screenshot",
+        "time" : {
+          "start" : 1650113572856,
+          "stop" : 1650113573413,
+          "duration" : 557
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "ce07f8d587d60b13",
+          "name" : "Screenshot",
+          "source" : "ce07f8d587d60b13.html",
+          "type" : "text/html",
+          "size" : 547791
+        } ],
+        "parameters" : [ {
+          "name" : "test",
+          "value" : "'Screenshot'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "not_null",
+        "time" : {
+          "start" : 1650113573413,
+          "stop" : 1650113573413,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "a",
+          "value" : "'architecture'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "take_screenshot",
+        "time" : {
+          "start" : 1650113573413,
+          "stop" : 1650113573947,
+          "duration" : 534
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "b77333264d2de8fc",
+          "name" : "Screenshot",
+          "source" : "b77333264d2de8fc.html",
+          "type" : "text/html",
+          "size" : 547791
+        } ],
+        "parameters" : [ {
+          "name" : "test",
+          "value" : "'Screenshot'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "a",
+        "value" : "['marine', 'architecture']"
+      } ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "title_contains_words",
+      "time" : {
+        "start" : 1650113755472,
+        "stop" : 1650113756100,
+        "duration" : 628
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "take_screenshot",
+        "time" : {
+          "start" : 1650113755472,
+          "stop" : 1650113756100,
+          "duration" : 628
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "ae8bc7c602090dba",
+          "name" : "Screenshot",
+          "source" : "ae8bc7c602090dba.html",
+          "type" : "text/html",
+          "size" : 678083
+        } ],
+        "parameters" : [ {
+          "name" : "test",
+          "value" : "'Screenshot'"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "title",
+        "value" : "'Marine architecture - Wikipedia'"
+      }, {
+        "name" : "l",
+        "value" : "['marine', 'architecture']"
+      } ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "result",
+      "time" : {
+        "start" : 1650113756100,
+        "stop" : 1650113756100,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "locator::close_browser",
+    "time" : {
+      "start" : 1650113756102,
+      "stop" : 1650113756211,
+      "duration" : 109
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_google_search"
+  }, {
+    "name" : "host",
+    "value" : "LT-E9129BMBP"
+  }, {
+    "name" : "thread",
+    "value" : "66239-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_google_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "image_name",
+    "value" : "'image3'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4e888ceada028fe.json",
+  "parameterValues" : [ "'image3'" ]
+}

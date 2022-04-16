@@ -1,0 +1,14 @@
+allure-pytest==2.8.18
+allure-python-commons==2.8.18
+csv23==0.3.2
+pytest==6.0.2
+pytest-html==2.1.1
+pytest-ordering==0.6
+pytest-rerunfailures==10.2
+pytest-xdist==1.16.0
+requests==2.20.0
+requests-html==0.10.0
+selenium==3.141.0
+
+
+

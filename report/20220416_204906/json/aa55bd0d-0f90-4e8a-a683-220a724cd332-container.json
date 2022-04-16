@@ -1,0 +1,1 @@
+{"uuid": "9968b894-03f2-4bbb-a54b-de1f6bb17a9e", "children": ["93c6ab7f-c2a3-4c08-9c27-5ec64c4b1de1"], "befores": [{"name": "locator", "status": "passed", "start": 1650113347155, "stop": 1650113353895}], "afters": [{"name": "locator::close_browser", "status": "passed", "start": 1650113395004, "stop": 1650113395118}], "start": 1650113347155, "stop": 1650113395118}

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 16 20:49:13 CST 2022","Sat Apr 16 20:49:55 CST 2022","41104","tests","test_google_search","","","","test_google_search[image1]",""
+"passed","Sat Apr 16 20:52:43 CST 2022","Sat Apr 16 20:55:56 CST 2022","192882","tests","test_google_search","","","","test_google_search[image3]",""
+"passed","Sat Apr 16 20:50:01 CST 2022","Sat Apr 16 20:52:36 CST 2022","154568","tests","test_google_search","","","","test_google_search[image2]",""
