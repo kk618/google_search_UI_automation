@@ -13,3 +13,7 @@ Use Selenium Webdriver or any alternative framework to complete this exercise.
 * pytest -s tests/emails/test_google_search.py
 * or python run.py
 
+## Framework
+![image](https://user-images.githubusercontent.com/36658232/163739146-543cf4b3-d818-4750-adc3-08f2b2723037.png)
+
+
